@@ -97,7 +97,6 @@ export default function CaseDetailsPage() {
             id: res.tracking_id,
             filename: file.name,
             hash: "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-            trackingId: res.tracking_id,
           },
           ...branch.documents,
         ];
