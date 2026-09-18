@@ -28,7 +28,7 @@ To accommodate simple collaboration and instantaneous CI/CD test generation, the
 
 **1. Clone the Source**
 ```bash
-git clone https://github.com/your-org/SecureVault.git
+git clone https://github.com/milanncodes/SecureVault.git
 cd SecureVault
 ```
 
